@@ -10,7 +10,7 @@ private
       config.consumer_key = ENV['eZHpmjVCOhmmwQSvGFopbOpwT']
       config.consumer_secret = ENV['2vqPUvvvGxWfQnjfTiBGDWMG2FNXHdexfXufMwFptvpOupF8rl']
       config.oauth_token = session['10914232-U3p9i9XJ0c4szCjkuFs6YVQqU1K7X6VkKt8fcbtvK']
-      config.oauth_token_secret = session['CSQZkGQ1EmmJGFrmGv4cAIv9JDxGqSbJgP9WZ0qMXRAVI']
+      config.oauth_token_secret = session['o198WS4Hs9LVigz3zlfuSnIJlm1oOUCdzRs1vjdkeOps0']
     end
   end
 end
