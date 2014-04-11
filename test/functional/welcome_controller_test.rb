@@ -1,5 +1,6 @@
 require 'test_helper'
 
+
 class WelcomeControllerTest < ActionController::TestCase
   test 'should get index' do
     get :index
@@ -11,4 +12,7 @@ class WelcomeControllerTest < ActionController::TestCase
     end
     assert_select 'Button', 'Sign in with Twitter'
   end
+
+
+
 end

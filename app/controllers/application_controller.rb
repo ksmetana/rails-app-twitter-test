@@ -9,7 +9,7 @@ private
     @client ||= Twitter::REST::Client.new do |config|
       config.consumer_key = ENV['eZHpmjVCOhmmwQSvGFopbOpwT']
       config.consumer_secret = ENV['2vqPUvvvGxWfQnjfTiBGDWMG2FNXHdexfXufMwFptvpOupF8rl']
-      config.oauth_token = session['10914232-U3p9i9XJ0c4szCjkuFs6YVQqU1K7X6VkKt8fcbtvK']
+      config.oauth_token = session['10914232-l8K00T673ML3EjEGPpXorOOVIx5pMWa3aW4KKNbUK']
       config.oauth_token_secret = session['o198WS4Hs9LVigz3zlfuSnIJlm1oOUCdzRs1vjdkeOps0']
     end
   end
