@@ -6,11 +6,12 @@ class ApplicationController < ActionController::Base
 private
 
   def client
+
     @client ||= Twitter::REST::Client.new do |config|
-      config.consumer_key = ENV['eZHpmjVCOhmmwQSvGFopbOpwT']
-      config.consumer_secret = ENV['2vqPUvvvGxWfQnjfTiBGDWMG2FNXHdexfXufMwFptvpOupF8rl']
-      config.oauth_token = session['10914232-l8K00T673ML3EjEGPpXorOOVIx5pMWa3aW4KKNbUK']
-      config.oauth_token_secret = session['o198WS4Hs9LVigz3zlfuSnIJlm1oOUCdzRs1vjdkeOps0']
+      config.consumer_key = "eZHpmjVCOhmmwQSvGFopbOpwT"
+      config.consumer_secret = "2vqPUvvvGxWfQnjfTiBGDWMG2FNXHdexfXufMwFptvpOupF8rl"
+      config.oauth_token = "10914232-l8K00T673ML3EjEGPpXorOOVIx5pMWa3aW4KKNbUK"
+      config.oauth_token_secret = "o198WS4Hs9LVigz3zlfuSnIJlm1oOUCdzRs1vjdkeOps0"
     end
   end
 end
