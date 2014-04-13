@@ -1,8 +1,10 @@
 .row
   %p
     = @user.inspect
-  %p
-    = @friends.inspect
+
+  - @friends.each do |friend|
+    = @friend.screen_name
+    
   .viz 
   :javascript 
     var width = 960,

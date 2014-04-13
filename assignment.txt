@@ -1,0 +1,7 @@
+
+
+1. = @friends.inspect
+
+friends is an array of obejcts [User]. 
+
+User.name
