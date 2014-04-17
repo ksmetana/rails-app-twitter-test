@@ -1,6 +1,10 @@
+.row
+  %p
+    = @user.inspect
+     - @friends.each do |friend|
+    
 
-
-  
+  .viz 
   :javascript 
     var width = 960,
     height = 500;
