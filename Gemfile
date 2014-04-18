@@ -27,6 +27,9 @@ group :test do
   gem 'webmock'
 end
 
+
+gem 'gon'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false

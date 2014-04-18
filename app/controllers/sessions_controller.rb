@@ -11,8 +11,7 @@ class SessionsController < ApplicationController
     if session['access_token'] && session['access_token_secret']
       @user = client.user(include_entities: true)
       @friends = client.friends.take(10)
-
-
+      gon.friends =  @friends
     else
       redirect_to failure_path
     end
