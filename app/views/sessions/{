@@ -1,0 +1,1310 @@
+{
+  "id": 10914232,
+  "id_str": "10914232",
+  "name": "ksmetana",
+  "screen_name": "ksmetana",
+  "location": "San Francisco",
+  "description": "Prototype \u0026 Product Design",
+  "url": null,
+  "entities": {
+    "description": {
+      "urls": [
+        
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 146,
+  "friends_count": 540,
+  "listed_count": 10,
+  "created_at": "Thu Dec 06 20:14:52 +0000 2007",
+  "favourites_count": 64,
+  "utc_offset": -25200,
+  "time_zone": "Pacific Time (US \u0026 Canada)",
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 600,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Apr 17 16:56:54 +0000 2014",
+    "id": 456838727172513792,
+    "id_str": "456838727172513792",
+    "text": "Amanda Palmer is wonderful - http://t.co/Ud349xIY7c via @YouTube",
+    "source": "\u003Ca href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C/a\u003E",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "symbols": [
+        
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/Ud349xIY7c",
+          "expanded_url": "http://youtu.be/-fzSked0WUg",
+          "display_url": "youtu.be/-fzSked0WUg",
+          "indices": [
+            29,
+            51
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            56,
+            64
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "8C8B91",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456293060087803904/8_M46lB_.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456293060087803904/8_M46lB_.jpeg",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3688703742/2c57fd7a2b98a5f0ca89fa8de7f25894_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3688703742/2c57fd7a2b98a5f0ca89fa8de7f25894_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/10914232/1397624022",
+  "profile_link_color": "0F3CC2",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "1D1D1D",
+  "profile_text_color": "892DD8",
+  "profile_use_background_image": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}
+
+[
+  {
+    "id": 175091719,
+    "id_str": "175091719",
+    "name": "Karl the Fog",
+    "screen_name": "KarlTheFog",
+    "location": "San Francisco, CA",
+    "description": "All that is sunny does not glitter, not all those in the fog are lost.",
+    "url": "http://t.co/iuOLGO95ec",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/iuOLGO95ec",
+            "expanded_url": "http://about.me/karlthefog",
+            "display_url": "about.me/karlthefog",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 40167,
+    "friends_count": 415,
+    "listed_count": 799,
+    "created_at": "Thu Aug 05 16:27:41 +0000 2010",
+    "favourites_count": 8395,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US \u0026 Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7425,
+    "lang": "en",
+    "status": {
+      "created_at": "Thu Apr 17 16:34:47 +0000 2014",
+      "id": 456833160899080192,
+      "id_str": "456833160899080192",
+      "text": "Two cities, both alike in dignity, \nIn fair and foggy San Francisco, where we lay our scene",
+      "source": "\u003Ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C/a\u003E",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 21,
+      "favorite_count": 76,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "urls": [
+          
+        ],
+        "user_mentions": [
+          
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/418790063422459904/_Jvx0ChZ_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/418790063422459904/_Jvx0ChZ_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/175091719/1396295778",
+    "profile_link_color": "3D8FA8",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 41469938,
+    "id_str": "41469938",
+    "name": "LOVE MAGAZINE",
+    "screen_name": "THELOVEMAGAZINE",
+    "location": "Clerkenwell",
+    "description": "ISSUE ELEVEN IS ON SALE 3-2-14",
+    "url": "http://t.co/MEGDjXFHfG",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/MEGDjXFHfG",
+            "expanded_url": "http://Thelovemagazine.co.uk",
+            "display_url": "Thelovemagazine.co.uk",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 361824,
+    "friends_count": 165,
+    "listed_count": 3662,
+    "created_at": "Wed May 20 22:44:28 +0000 2009",
+    "favourites_count": 481,
+    "utc_offset": 3600,
+    "time_zone": "Casablanca",
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 6988,
+    "lang": "en",
+    "status": {
+      "created_at": "Thu Apr 17 22:03:04 +0000 2014",
+      "id": 456915775740452864,
+      "id_str": "456915775740452864",
+      "text": "Tomorrow on http://t.co/U7eSURCnx9 @MirandaKerr is The Easter Bunny 🐇🐇🐇🐇🐇",
+      "source": "\u003Ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C/a\u003E",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/U7eSURCnx9",
+            "expanded_url": "http://THELOVEMAGAZINE.co.uk",
+            "display_url": "THELOVEMAGAZINE.co.uk",
+            "indices": [
+              12,
+              34
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "MirandaKerr",
+            "name": "Miranda Kerr",
+            "id": 141052723,
+            "id_str": "141052723",
+            "indices": [
+              35,
+              47
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FC0808",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000067301551/31b78e6188d790b60e51739d087ee168.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000067301551/31b78e6188d790b60e51739d087ee168.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/428858383014572032/14RhViwY_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/428858383014572032/14RhViwY_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/41469938/1390779626",
+    "profile_link_color": "660303",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 64418855,
+    "id_str": "64418855",
+    "name": "AnOtherMagazine",
+    "screen_name": "AnOtherMagazine",
+    "location": "UK ",
+    "description": "A thought-provoking blend of high fashion, art and culture brought to you by the creators of AnOther Magazine and Another Man.",
+    "url": "http://t.co/yoZimOIBdD",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/yoZimOIBdD",
+            "expanded_url": "http://www.anothermag.com/",
+            "display_url": "anothermag.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 157300,
+    "friends_count": 1556,
+    "listed_count": 2639,
+    "created_at": "Mon Aug 10 14:41:01 +0000 2009",
+    "favourites_count": 367,
+    "utc_offset": 3600,
+    "time_zone": "London",
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 9249,
+    "lang": "en",
+    "status": {
+      "created_at": "Thu Apr 17 22:00:17 +0000 2014",
+      "id": 456915072804069376,
+      "id_str": "456915072804069376",
+      "text": "Amazing illustrations around everyday objects: http://t.co/7ooTwHRXme",
+      "source": "\u003Ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C/a\u003E",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/7ooTwHRXme",
+            "expanded_url": "http://ow.ly/vFTbT",
+            "display_url": "ow.ly/vFTbT",
+            "indices": [
+              47,
+              69
+            ]
+          }
+        ],
+        "user_mentions": [
+          
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448053988156387328/XzCZ9SUZ.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448053988156387328/XzCZ9SUZ.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/448054068187889664/6RsDo9F__normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/448054068187889664/6RsDo9F__normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/64418855/1395659407",
+    "profile_link_color": "7D7D7D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 259127503,
+    "id_str": "259127503",
+    "name": "Techweek Chicago",
+    "screen_name": "TechweekCHI",
+    "location": "Chicago, IL",
+    "description": "#TechweekCHI's mission is to showcase, celebrate and enable emerging innovation ecosystems in Chicago.",
+    "url": "http://t.co/uTjFVKF5Eg",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/uTjFVKF5Eg",
+            "expanded_url": "http://techweek.com/chicago",
+            "display_url": "techweek.com/chicago",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 10570,
+    "friends_count": 8713,
+    "listed_count": 320,
+    "created_at": "Tue Mar 01 05:29:44 +0000 2011",
+    "favourites_count": 204,
+    "utc_offset": -18000,
+    "time_zone": "Central Time (US \u0026 Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4568,
+    "lang": "en",
+    "status": {
+      "created_at": "Thu Apr 17 20:30:01 +0000 2014",
+      "id": 456892358412365824,
+      "id_str": "456892358412365824",
+      "text": "#TechweekCHI Feature Company @Priceline shares their avid efforts for online marketing via @BloombergNews! || http://t.co/l3pPu3eL8l",
+      "source": "\u003Ca href=\"http://sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C/a\u003E",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TechweekCHI",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/l3pPu3eL8l",
+            "expanded_url": "http://bloom.bg/1pax0Vi",
+            "display_url": "bloom.bg/1pax0Vi",
+            "indices": [
+              110,
+              132
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "priceline",
+            "name": "Priceline.com",
+            "id": 20595739,
+            "id_str": "20595739",
+            "indices": [
+              29,
+              39
+            ]
+          },
+          {
+            "screen_name": "BloombergNews",
+            "name": "Bloomberg News",
+            "id": 34713362,
+            "id_str": "34713362",
+            "indices": [
+              91,
+              105
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/431577701304913920/rVvT0jyF.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/431577701304913920/rVvT0jyF.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/431846076937564160/7S190eND_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/431846076937564160/7S190eND_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/259127503/1391730072",
+    "profile_link_color": "F8961D",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "F2F2F2",
+    "profile_text_color": "4D4D4D",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 120207925,
+    "id_str": "120207925",
+    "name": "Three Avocados",
+    "screen_name": "nonprofitcoffee",
+    "location": "St. Louis, MO",
+    "description": "Three Avocados is a non-profit coffee company. 100% of net proceeds provide clean water in Uganda \u0026 education in Nicaragua. Founded 2010.",
+    "url": "http://t.co/yEFZNSmFcu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/yEFZNSmFcu",
+            "expanded_url": "http://www.threeavocados.org/",
+            "display_url": "threeavocados.org",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 93859,
+    "friends_count": 74262,
+    "listed_count": 2451,
+    "created_at": "Fri Mar 05 20:01:34 +0000 2010",
+    "favourites_count": 9,
+    "utc_offset": -18000,
+    "time_zone": "Central Time (US \u0026 Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8445,
+    "lang": "en",
+    "status": {
+      "created_at": "Thu Apr 17 11:40:42 +0000 2014",
+      "id": 456759151683571712,
+      "id_str": "456759151683571712",
+      "text": "Happy morning! Coffee time!!",
+      "source": "\u003Ca href=\"http://twitter.com/download/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C/a\u003E",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 36,
+      "favorite_count": 44,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "urls": [
+          
+        ],
+        "user_mentions": [
+          
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/134164922/twitter-background-smiling-girl.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/134164922/twitter-background-smiling-girl.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1196909620/twitter-12-10_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196909620/twitter-12-10_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/120207925/1377737910",
+    "profile_link_color": "B75820",
+    "profile_sidebar_border_color": "B75820",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 15995155,
+    "id_str": "15995155",
+    "name": "VICE UK",
+    "screen_name": "VICEUK",
+    "location": "London, UK",
+    "description": "We suck less than most other companies.",
+    "url": "http://t.co/HY7roynZHL",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/HY7roynZHL",
+            "expanded_url": "http://www.vice.com/en_uk",
+            "display_url": "vice.com/en_uk",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 192009,
+    "friends_count": 8250,
+    "listed_count": 2412,
+    "created_at": "Tue Aug 26 11:51:32 +0000 2008",
+    "favourites_count": 24,
+    "utc_offset": 3600,
+    "time_zone": "London",
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 25245,
+    "lang": "en",
+    "status": {
+      "created_at": "Fri Apr 18 01:30:17 +0000 2014",
+      "id": 456967920849915905,
+      "id_str": "456967920849915905",
+      "text": "The mob justice of Kenya's Somali stop-and-frisk: http://t.co/CiVJPn5kPU",
+      "source": "\u003Ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C/a\u003E",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/CiVJPn5kPU",
+            "expanded_url": "http://bit.ly/1gCFlb4",
+            "display_url": "bit.ly/1gCFlb4",
+            "indices": [
+              50,
+              72
+            ]
+          }
+        ],
+        "user_mentions": [
+          
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/691560868/a12ea209eba3fa2b25a248f7483c4a7a.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/691560868/a12ea209eba3fa2b25a248f7483c4a7a.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000301455010/3279927b5b1e54c35a88f4997c205ac5_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000301455010/3279927b5b1e54c35a88f4997c205ac5_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15995155/1394118436",
+    "profile_link_color": "2960AD",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FAD0D2",
+    "profile_text_color": "0F240D",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 118653922,
+    "id_str": "118653922",
+    "name": "Nic Pizzolatto",
+    "screen_name": "nicpizzolatto",
+    "location": "",
+    "description": "writer, producer: 'True Detective', 'Galveston.'",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 20538,
+    "friends_count": 129,
+    "listed_count": 193,
+    "created_at": "Mon Mar 01 10:39:28 +0000 2010",
+    "favourites_count": 102,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US \u0026 Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14,
+    "lang": "en",
+    "status": {
+      "created_at": "Tue Apr 01 00:00:59 +0000 2014",
+      "id": 450784857820385280,
+      "id_str": "450784857820385280",
+      "text": "RT @HBO: \"Dante, Redemption, and the Last #TrueDetective Essay You Need to Read\" by @ComplexMag: http://t.co/9EHVZCfSxz @McConaughey #Woody…",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Mar 31 22:38:24 +0000 2014",
+        "id": 450764074146877440,
+        "id_str": "450764074146877440",
+        "text": "\"Dante, Redemption, and the Last #TrueDetective Essay You Need to Read\" by @ComplexMag: http://t.co/9EHVZCfSxz @McConaughey #WoodyHarrelson",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 115,
+        "favorite_count": 208,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "TrueDetective",
+              "indices": [
+                33,
+                47
+              ]
+            },
+            {
+              "text": "WoodyHarrelson",
+              "indices": [
+                124,
+                139
+              ]
+            }
+          ],
+          "symbols": [
+            
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/9EHVZCfSxz",
+              "expanded_url": "http://itsh.bo/1gi3ToJ",
+              "display_url": "itsh.bo/1gi3ToJ",
+              "indices": [
+                88,
+                110
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "ComplexMag",
+              "name": "Complex ",
+              "id": 13049362,
+              "id_str": "13049362",
+              "indices": [
+                75,
+                86
+              ]
+            },
+            {
+              "screen_name": "McConaughey",
+              "name": "Matthew McConaughey",
+              "id": 57097104,
+              "id_str": "57097104",
+              "indices": [
+                111,
+                123
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 115,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TrueDetective",
+            "indices": [
+              42,
+              56
+            ]
+          },
+          {
+            "text": "WoodyHarrelson",
+            "indices": [
+              133,
+              140
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/9EHVZCfSxz",
+            "expanded_url": "http://itsh.bo/1gi3ToJ",
+            "display_url": "itsh.bo/1gi3ToJ",
+            "indices": [
+              97,
+              119
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "HBO",
+            "name": "HBO",
+            "id": 15635604,
+            "id_str": "15635604",
+            "indices": [
+              3,
+              7
+            ]
+          },
+          {
+            "screen_name": "ComplexMag",
+            "name": "Complex ",
+            "id": 13049362,
+            "id_str": "13049362",
+            "indices": [
+              84,
+              95
+            ]
+          },
+          {
+            "screen_name": "McConaughey",
+            "name": "Matthew McConaughey",
+            "id": 57097104,
+            "id_str": "57097104",
+            "indices": [
+              120,
+              132
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435092254496022528/HyLVdDON.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435092254496022528/HyLVdDON.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/425732437465763840/ZvOFm_R7_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/425732437465763840/ZvOFm_R7_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/118653922/1390341082",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2244340904,
+    "id_str": "2244340904",
+    "name": "Re/code",
+    "screen_name": "Recode",
+    "location": "San Francisco, CA",
+    "description": "Independent tech news, reviews and events brought to you by @waltmossberg, @karaswisher and the entire Re/code team.",
+    "url": "http://t.co/QtNr5qQEsH",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/QtNr5qQEsH",
+            "expanded_url": "http://recode.net",
+            "display_url": "recode.net",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 55752,
+    "friends_count": 49,
+    "listed_count": 2430,
+    "created_at": "Fri Dec 13 19:03:27 +0000 2013",
+    "favourites_count": 212,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US \u0026 Canada)",
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 2795,
+    "lang": "en",
+    "status": {
+      "created_at": "Thu Apr 17 23:48:26 +0000 2014",
+      "id": 456942291228573697,
+      "id_str": "456942291228573697",
+      "text": "Q\u0026amp;A: Weibo Chairman Charles Chao on IPO Day / by @LizGannes / http://t.co/ewLFuIBzL3",
+      "source": "\u003Ca href=\"http://publicize.wp.com/\" rel=\"nofollow\"\u003EWordPress.com\u003C/a\u003E",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 3,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/ewLFuIBzL3",
+            "expanded_url": "http://on.recode.net/1pepdFS",
+            "display_url": "on.recode.net/1pepdFS",
+            "indices": [
+              66,
+              88
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "lizgannes",
+            "name": "Liz Gannes",
+            "id": 770729,
+            "id_str": "770729",
+            "indices": [
+              53,
+              63
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "de"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "A73A2A",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000159765723/kvqTBYQ-.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000159765723/kvqTBYQ-.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/417715976285593601/E9cU7-31_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/417715976285593601/E9cU7-31_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244340904/1388426472",
+    "profile_link_color": "A73A2A",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 23818581,
+    "id_str": "23818581",
+    "name": "VICE",
+    "screen_name": "VICE",
+    "location": "Brooklyn, NY",
+    "description": "The Definitive Guide to Enlightening Information",
+    "url": "http://t.co/ynuk0xrVyG",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/ynuk0xrVyG",
+            "expanded_url": "http://www.vice.com",
+            "display_url": "vice.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 612362,
+    "friends_count": 14081,
+    "listed_count": 8636,
+    "created_at": "Wed Mar 11 20:00:38 +0000 2009",
+    "favourites_count": 298,
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US \u0026 Canada)",
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 21859,
+    "lang": "en",
+    "status": {
+      "created_at": "Fri Apr 18 01:28:16 +0000 2014",
+      "id": 456967416375816192,
+      "id_str": "456967416375816192",
+      "text": "Students in New Zealand Can Now Buy Beers with Dead Rats http://t.co/eeYD3j5BW8",
+      "source": "\u003Ca href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C/a\u003E",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 25,
+      "favorite_count": 10,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/eeYD3j5BW8",
+            "expanded_url": "http://bit.ly/1m9Vags",
+            "display_url": "bit.ly/1m9Vags",
+            "indices": [
+              57,
+              79
+            ]
+          }
+        ],
+        "user_mentions": [
+          
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/681263517/5560e6fa257be5ef1408b3d6295390a5.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/681263517/5560e6fa257be5ef1408b3d6295390a5.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3060284671/15e9fc92457c5b7633b5378a77b80c26_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3060284671/15e9fc92457c5b7633b5378a77b80c26_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/23818581/1394065135",
+    "profile_link_color": "077AC0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "F7F3F2",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2781,
+    "id_str": "2781",
+    "name": "Aubrey Sabala",
+    "screen_name": "Aubs",
+    "location": "New York, NY",
+    "description": "I say inappropriate things on the internet. I'd say I was trying to fix that, but nobody likes a liar.",
+    "url": "http://t.co/HRkMgqozKi",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/HRkMgqozKi",
+            "expanded_url": "http://about.me/aubs",
+            "display_url": "about.me/aubs",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 28552,
+    "friends_count": 685,
+    "listed_count": 996,
+    "created_at": "Fri Jul 21 19:16:55 +0000 2006",
+    "favourites_count": 604,
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US \u0026 Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 25018,
+    "lang": "en",
+    "status": {
+      "created_at": "Fri Apr 18 00:42:36 +0000 2014",
+      "id": 456955922167115776,
+      "id_str": "456955922167115776",
+      "text": "A little #bulletsoverbroadway wine sippy cup action with @cwaxler! http://t.co/gyT8C7CJeT",
+      "source": "\u003Ca href=\"http://instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C/a\u003E",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "bulletsoverbroadway",
+            "indices": [
+              9,
+              29
+            ]
+          }
+        ],
+        "symbols": [
+          
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/gyT8C7CJeT",
+            "expanded_url": "http://instagram.com/p/m6VW9ty8z5/",
+            "display_url": "instagram.com/p/m6VW9ty8z5/",
+            "indices": [
+              67,
+              89
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "cwaxler",
+            "name": "Caroline Waxler",
+            "id": 14081826,
+            "id_str": "14081826",
+            "indices": [
+              57,
+              65
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000493641467/4a1e6bc3eb404345fab205555556dbe3_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000493641467/4a1e6bc3eb404345fab205555556dbe3_normal.jpeg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  }
+]
