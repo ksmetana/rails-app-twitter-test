@@ -1,3 +1,5 @@
+require 'json'
+
 class SessionsController < ApplicationController
   def create
     session[:access_token] = request.env['omniauth.auth']['credentials']['token']
@@ -9,6 +11,8 @@ class SessionsController < ApplicationController
     if session['access_token'] && session['access_token_secret']
       @user = client.user(include_entities: true)
       @friends = client.friends.take(10)
+
+
     else
       redirect_to failure_path
     end
