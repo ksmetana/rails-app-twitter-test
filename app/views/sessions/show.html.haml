@@ -30,7 +30,8 @@
     for(var i in gon.friends)
     {
       var friend = {"name": gon.friends[i].name, "group": 1}
-      var linktofriend = {"source":i+1,"target":0,"value":1}
+      var n = parseInt(i) + 1
+      var linktofriend = {"source":n,"target":0,"value":1}
       graph.nodes.push(friend)
       graph.links.push(linktofriend)
     }
