@@ -1,7 +1,7 @@
 .row
   %p
-    = @user.inspect
     = @user.to_json
+    = 3.times {|n| puts "<BR>"}
     = @friends.to_json
     
 
