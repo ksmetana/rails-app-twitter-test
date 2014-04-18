@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sign in with Twitter
 
 [![Build Status](http://img.shields.io/travis/sferik/sign-in-with-twitter.svg)][travis]
@@ -106,3 +107,9 @@ time of a major release, support for that Ruby version may be dropped.
 Copyright (c) 2011 Erik Michaels-Ober. See [LICENSE][] for details.
 
 [license]: https://github.com/sferik/sign-in-with-twitter/blob/master/LICENSE.md
+=======
+rails-app-twitter-test
+======================
+
+Ruby Twitter Test
+>>>>>>> 3181bf81e2d49b49127474017de85d4820626c30
