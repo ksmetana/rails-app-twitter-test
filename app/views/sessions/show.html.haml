@@ -1,7 +1,9 @@
 .row
   %p
     = @user.inspect
-     - @friends.each do |friend|
+    = @user.to_json
+    = @friends.to_json
+     / - @friends.each do |friend|
     
 
   .viz 
