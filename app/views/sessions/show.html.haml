@@ -22,16 +22,21 @@
 
     var graph = {
                   "nodes":[
-                    {"name":"Myself","group":0},
                   ],
                   "links":[
-                    {"source":1,"target":0,"value":1},
                   ]
                 }
 
-    var sample = {"name": "test1", "group": 1}
+    var myown = {"name": gon.myname, "group": 0}
+    graph.nodes.push(myown);
 
-    graph.nodes.push(sample);
+
+    for(var i in gon.friends)
+    {
+      var friend = {"name": gon.friends[i].name, "group": 1}
+      var linktofriend = {"source":i++,"target":0,"value":1},
+      graph.nodes.push(friend);
+    }
 
       force
           .nodes(graph.nodes)
