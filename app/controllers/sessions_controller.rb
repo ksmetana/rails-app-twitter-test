@@ -12,7 +12,7 @@ class SessionsController < ApplicationController
       @user = client.user(include_entities: true)
       @friends = client.friends.take(10)
       gon.friends =  @friends
-
+      @clientTumlrInfo = clientTumlr.info
     else
       redirect_to failure_path
     end

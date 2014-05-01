@@ -9,6 +9,8 @@ gem 'omniauth-twitter'
 gem 'rails_12factor'
 gem 'twitter'
 gem 'twitter-text'
+gem 'omniauth-tumblr'
+gem 'tumblr_client'
 
 group :assets do
   gem 'sass-rails'
@@ -29,8 +31,6 @@ end
 
 
 gem 'gon'
-
-gem 'omniauth-tumblr'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
