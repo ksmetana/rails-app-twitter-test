@@ -15,11 +15,7 @@ class SessionsController < ApplicationController
       @user1 = client.user("hlntv")
       @friends1 = client.friends.take(10)
 
-
       gon.friends =  @friends
-
-
-      @clientTumlrInfo = clientTumlr.info
     else
       redirect_to failure_path
     end
