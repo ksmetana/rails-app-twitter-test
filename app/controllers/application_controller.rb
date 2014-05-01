@@ -13,14 +13,14 @@ private
     end
 
 
-    Tumblr.configure do |config|
-      config.consumer_key = "JHFAMnT4kmNgKMt6KqecGodzikTJoWOx9Oz0DXbU2ck37VKxlD"
-      config.consumer_secret = "F6tJWACBpP2NL2qv4LgmcVw9gR5TfTTmFqB6hO0B4rqKHbUoLH"
-      # config.oauth_token = "access_token"
-      # config.oauth_token_secret = "access_token_secret"
-    end
+    # Tumblr.configure do |config|
+    #   config.consumer_key = "JHFAMnT4kmNgKMt6KqecGodzikTJoWOx9Oz0DXbU2ck37VKxlD"
+    #   config.consumer_secret = "F6tJWACBpP2NL2qv4LgmcVw9gR5TfTTmFqB6hO0B4rqKHbUoLH"
+    #   # config.oauth_token = "access_token"
+    #   # config.oauth_token_secret = "access_token_secret"
+    # end
 
-    @clientTumlr = Tumblr::Client.new
+    # @clientTumlr = Tumblr::Client.new
     
   end 
 
