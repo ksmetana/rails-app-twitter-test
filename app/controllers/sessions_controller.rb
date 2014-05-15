@@ -10,10 +10,10 @@ class SessionsController < ApplicationController
   def show
     if session['access_token'] && session['access_token_secret']
       @user = client.user(include_entities: true)
-      @friends = client.friends.take(10)
+      @friends = client.friends.take(15)
 
       @user1 = client.user("hlntv")
-      @friends1 = client.friends.take(10)
+      @friends1 = client.friends.take(15)
 
       gon.friends =  @friends
     else
