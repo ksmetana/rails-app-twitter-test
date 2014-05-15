@@ -13,7 +13,7 @@ class SessionsController < ApplicationController
       @friends = client.friends.take(15)
 
       @user1 = client.user("hlntv")
-      @friends1 = client.friends.take(20)
+      @friends1 = client.friends.take(15)
 
       gon.friends =  @friends
     else
