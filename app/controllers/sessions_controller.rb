@@ -52,6 +52,8 @@ class SessionsController < ApplicationController
       #@friends = fetch_all_friends('ksmetana', 100)
       @friends = client.friends("jianbinljb").to_a
 
+      @info = tumblr_client.info
+
       gon.friends =  @friends
     else
       redirect_to failure_path
