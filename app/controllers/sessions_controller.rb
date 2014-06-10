@@ -48,10 +48,10 @@ class SessionsController < ApplicationController
   def show
     if session['access_token'] && session['access_token_secret']
       @user = client.user(include_entities: true)
-      #@friends = client.friends.take(15)
-      @friends = fetch_all_friends('ksmetana', 100)
-      #@user1 = client.user("hlntv")
-      #@friends1 = client.friends.take(15)
+      #@friends = client.friends.to_a
+      #@friends = fetch_all_friends('ksmetana', 100)
+      @user1 = client.user("jianbinljb")
+      @friends = client.friends.to_a
 
       gon.friends =  @friends
     else
